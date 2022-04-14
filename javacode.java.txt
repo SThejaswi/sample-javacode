@@ -1,0 +1,7 @@
+class some javacode
+{
+       public void dothings()
+       {       
+              sysout("business operations");
+        }
+}
